@@ -1,0 +1,12 @@
+#python
+*.pyc
+
+#application specific
+data/result.txt
+
+#eclipse
+.pydevproject
+.project
+
+#general
+*~
